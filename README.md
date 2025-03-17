@@ -43,7 +43,7 @@ Linking/Pairing:
     
 - Fork this repo by tapping
 
-  [𝗛𝗘𝗥𝗘](<a href='https://pair.dreaded.site' target="_blank">
+  [𝗛𝗘𝗥𝗘](https://pairing-raven.onrender.com)
     <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/) 
 
 
