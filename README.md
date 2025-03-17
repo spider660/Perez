@@ -1,7 +1,7 @@
-# Perez
+
 # perez
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+perez-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NICK;PUBLIC+RELEASED; ...;TEAM RAVEN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+perez-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+IGNATIUS;PUBLIC+RELEASED; ...;PEREZ TEAM." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -14,10 +14,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://https://github.com/Ignatiusperez/Perez2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ignatius perez?label=Followers&style=social"></a>
+<a href="https://https://github.com/Ignatiusperez/Perez/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ignatius perez/perez-BOT?&style=social"></a>
+<a href="https://https://github.com/Ignatiusperez/Perez/members"><img title="Fork" src="https://img.shields.io/github/forks/https://github.com/Ignatiusperez/Perez?style=social"></a>
+<a href="https:/https://github.com/Ignatiusperez/Perez/T/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ignatius perez?label=Watching&style=social"></a>
 </p>
  
 
@@ -39,17 +39,14 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 Linking/Pairing:
 ## ` Pair onrender`
-[𝗛𝗘𝗥𝗘](https://pairing-raven.onrender.com)
+[𝗛𝗘𝗥𝗘](https://github.com/Ignatiusperez/Perez)
             
     
 - Fork this repo by tapping
 
-  [𝗛𝗘𝗥𝗘](https://github.com/HunterNick2/RAVEN-BOT/fork) 
-
-###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
+  [𝗛𝗘𝗥𝗘](https://github.com/Ignatiusperez/Perez) 
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/HunterNick2/RAVEN-BOT&template=https://github.com/HunterNick2/RAVEN-BOT.git)***
  
 
     
