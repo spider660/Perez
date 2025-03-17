@@ -38,13 +38,13 @@ Our AI features use random APIs to run, so sometimes they may be down.
 # SET-UP
 
 Linking/Pairing:
-## ` Pair onrender`
-[𝗛𝗘𝗥𝗘](https://github.com/Ignatiusperez/Perez)
+## ` )
             
     
 - Fork this repo by tapping
 
-  [𝗛𝗘𝗥𝗘](https://github.com/Ignatiusperez/Perez) 
+  [𝗛𝗘𝗥𝗘](<a href='https://pair.dreaded.site' target="_blank">
+    <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/) 
 
 
  
