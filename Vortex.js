@@ -582,7 +582,7 @@ client.sendMessage(m.chat, {
                                 title: `𝙋𝙀𝙍𝙀𝙕-𝙈𝘿`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./Raven.jpg'),
-                                sourceUrl: 'https://wa.me/254114660061?text=Hello👋+Nick+Nihostie+Bot+Mkuu+😔',
+                                sourceUrl: 'https://wa.me/254108098259?text=Hello👋+perez+Nihostie+Bot+Mkuu+😔',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -2532,7 +2532,7 @@ let fdr = await client.downloadAndSaveMediaMessage(qmsg);
 
 const imagelink = `https://aemt.me/hacker2?link=${fta}`;
 
-await client.sendMessage(m.chat, { image: { url: imagelink}, caption: "Converted by Raven! 🦄"}, { quoted: m});
+await client.sendMessage(m.chat, { image: { url: imagelink}, caption: "Converted by 𝙋𝙀𝙍𝙀𝙕-𝙈𝘿! 🦄"}, { quoted: m});
 
 }
   break;
@@ -3213,11 +3213,11 @@ if (m.quoted.message) {
             if (/video/.test(type)) {
 
 
-               await client.sendMessage(m.chat, { video: media, caption: `Retrieved by Raven! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
+               await client.sendMessage(m.chat, { video: media, caption: `Retrieved by 𝙋𝙀𝙍𝙀𝙕-𝙈𝘿! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
 
             } else if (/image/.test(type)) {
 
-await client.sendMessage(m.chat, { image: media, caption: `Retrieved by Raven! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
+await client.sendMessage(m.chat, { image: media, caption: `Retrieved by 𝙋𝙀𝙍𝙀𝙕-𝙈𝘿! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
 
             }
          } else m.reply("That is not a viewonce media. . .")
@@ -3506,7 +3506,7 @@ const ytSearch = require('yt-search');
     const messagePayload = {
       document: { url: downloadUrl },
       mimetype: 'video/mpeg',
-      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗢𝗧",
+      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝕻𝖊𝖗𝖊𝖟-𝖒𝖉",
       fileName: `${videoDetails.title}.mp3`,
     };
 
@@ -3685,7 +3685,7 @@ if (!text) return m.reply("No emojis provided ? ")
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗼𝘁`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝕻𝖊𝖗𝖊𝖟-𝖒𝖉`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -3757,7 +3757,7 @@ case "movie":
 				    ];
 		      const wife = daddy[Math.floor(Math.random() * daddy.length)];
 		      
- client.sendMessage(m.chat, { video: { url: wife }, caption: `𝗛𝗲𝗿𝗲 𝗶𝘀 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 💠 https://wa.me/qr/ZBFGLX3RB24NL1 💠 𝗢𝗻𝗹𝘆 𝗗𝗺 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝗮𝘀𝗼𝗻😁` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: wife }, caption: `𝗛𝗲𝗿𝗲 𝗶𝘀 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 💠 254108098259 💠 𝗢𝗻𝗹𝘆 𝗗𝗺 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝗮𝘀𝗼𝗻😁` }, {quoted: m}); 
   
  break;
        
