@@ -42,7 +42,7 @@ Linking/Pairing:
 ###  𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨:
 
 
-  ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=[https://github.com/Ignatiusperez/Perez/tree/main](https://github.com/Ignatiusperez/Perez))***
+  ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Ignatiusperez/Perez/tree/main))***
  
 
     
