@@ -211,10 +211,11 @@ await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '😳
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-    const Vortex = require("./Vortex");
+  const Vortex = require("./𝙋𝙀𝙍𝙀𝙕-𝙈𝘿");
 Vortex(client, m, chatUpdate, store);
-raven(client, m, chatUpdate, store);
-    } catch (err) {
+
+      
+    
       console.log(err);
     }
   });
