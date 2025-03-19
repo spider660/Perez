@@ -4055,7 +4055,7 @@ fs.watchFile(file, () => {
   delete require.cache[file];
   require(file);
 });
-
+ ADM : process.env.ANTI_DELETE_MESSAGE || 'yes',
 
  
   
