@@ -1,10 +1,12 @@
-PEREZ_MD
+𝕻𝖊𝖗𝖊𝖟-𝖒𝖉
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+PEREZ-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+IGNATIUS;PUBLIC+RELEASED; ...;TEAM PEREZ-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/416c3ae0cfe59be8db011.jpg" width="300" height="300"/>
+<img src="https://i.imgur.com/lP9oHm4.jpeg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PEREZ+WHATSAPP+BOT" alt="">
