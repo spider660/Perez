@@ -211,7 +211,8 @@ await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '😳
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      const raven = require("./𝙋𝙀𝙍𝙀𝙕-𝙈𝘿");
+    const Vortex = require("./Vortex");
+Vortex(client, m, chatUpdate, store);
 raven(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
