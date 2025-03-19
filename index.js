@@ -2,9 +2,9 @@ const sessionName = 'session';
 const antiforeign = process.env.ANTIFOREIGN || 'TRUE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 const autolike = process.env.AUTOLIKE_STATUS || 'TRUE';
-let botname = process.env.BOTNAME || 'Vortex-AI';
+let botname = process.env.BOTNAME || '𝙋𝙀𝙍𝙀𝙕-𝙈𝘿';
 
-const owner = process.env.DEV || '28748379216'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '254108098259'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -211,7 +211,7 @@ await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '😳
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      const raven = require("./Vortex");
+      const raven = require("./𝙋𝙀𝙍𝙀𝙕-𝙈𝘿");
 raven(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
@@ -702,7 +702,7 @@ await client.groupAcceptInvite("DefN96lXQ4i5iO1wDDeu2C");
       console.log(color("Congrats, Vortex AI has successfully connected to this server", "green"));
       console.log(color("Follow me on Instagram as sinless-johnny-official", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱😳 » » »【𝗩𝗼𝗿𝘁𝗲𝘅-𝗠𝗗】` });
+      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱😳 » » »【𝙋𝙀𝙍𝙀𝙕-𝙈𝘿】` });
     }
     // console.log('Connected...', update)
   });
