@@ -1,6 +1,6 @@
 {
-  "name": "VORTEX-MD",
-  "description": "Johnn65 Bad influencer",
+  "name": "ℙ𝔼ℝ𝔼ℤ-𝕄𝔻",
+  "description": "ignatius Perez",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Johnn65/VORTEX-MD#readme",
-  "repository": "https://github.com/Johnn65/VORTEX-MD.git",
+  "website": "https://github.com/Ignatiusperez/Perez#readme",
+  "repository": "https://github.com/Ignatiusperez/Perez",
   "logo": "https://telegra.ph/file/eebe191a0520a79979b34.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of VORTEX MD Ex: . , / , # , & etc. Put any symbol or leave it blank",
+      "description": "Prefix of 𝐏𝐄𝐑𝐄𝐙-𝐌𝐃 Ex: . , / , # , & etc. Put any symbol or leave it blank",
       "required": false
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114520835,27748379216  ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254108098259,27748379216  ",
       "required": true
     },
     "NOT_OWNER_MSG": {
