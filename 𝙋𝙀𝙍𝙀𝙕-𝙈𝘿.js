@@ -87,7 +87,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     const author = process.env.STICKER_AUTHOR ||'𝗕𝗢𝗧';
     const packname = process.env.STICKER_PACKNAME || '𝙋𝙀𝙍𝙀𝙕-𝙈𝘿';
 const dev = process.env.DEV || '254108098259';
-
+const menu = process.env.MENU_TYPE || 'VIDEO';
 
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
